@@ -1,4 +1,5 @@
 const express = require('express')
+const app = express()
 
 var telegramBot = require('node-telegram-bot-api')
 
