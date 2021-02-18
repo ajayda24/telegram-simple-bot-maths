@@ -8,6 +8,9 @@
   },
   "author": "Ajay Daniel Trevor",
   "license": "ISC",
+  "engines": {
+    "node": "12.18.3"
+  },
   "dependencies": {
     "express": "^4.17.1",
     "node-telegram-bot-api": "^0.51.0"
