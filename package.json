@@ -1,0 +1,14 @@
+{
+  "name": "simple-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ajay Daniel Trevor",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.51.0"
+  }
+}
